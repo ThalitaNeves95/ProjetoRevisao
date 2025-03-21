@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fic\\source\\repos\\ProjetoConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71C9F9E4-08B5-40C0-88CB-64CD66228472}|ProjetoRevisao\\ProjetoRevisao.csproj|c:\\users\\fic\\source\\repos\\projetoconsole\\projetorevisao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71C9F9E4-08B5-40C0-88CB-64CD66228472}|ProjetoRevisao\\ProjetoRevisao.csproj|solutionrelative:projetorevisao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7982B3A8-EA8D-4C03-ABB2-1DA2BBD06A4B}|Exercicios\\Exercicios.csproj|c:\\users\\fic\\source\\repos\\projetoconsole\\exercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7982B3A8-EA8D-4C03-ABB2-1DA2BBD06A4B}|Exercicios\\Exercicios.csproj|solutionrelative:exercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\source\\repos\\ProjetoConsole\\ProjetoRevisao\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoRevisao\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\source\\repos\\ProjetoConsole\\ProjetoRevisao\\Program.cs",
+              "RelativeToolTip": "ProjetoRevisao\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T00:16:39.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\source\\repos\\ProjetoConsole\\Exercicios\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicios\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\source\\repos\\ProjetoConsole\\Exercicios\\Program.cs",
+              "RelativeToolTip": "Exercicios\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswEMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T22:16:48.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

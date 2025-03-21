@@ -1,0 +1,14 @@
+C:\Users\fic\source\repos\ProjetoConsole\Exemplos\obj\Debug\net9.0\Exemplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\source\repos\ProjetoConsole\Exemplos\obj\Debug\net9.0\Exemplos.AssemblyInfoInputs.cache
+C:\Users\fic\source\repos\ProjetoConsole\Exemplos\obj\Debug\net9.0\Exemplos.AssemblyInfo.cs
+C:\Users\fic\source\repos\ProjetoConsole\Exemplos\obj\Debug\net9.0\Exemplos.csproj.CoreCompileInputs.cache
+C:\Users\fic\source\repos\ProjetoConsole\Exemplos\bin\Debug\net9.0\Exemplos.exe
+C:\Users\fic\source\repos\ProjetoConsole\Exemplos\bin\Debug\net9.0\Exemplos.deps.json
+C:\Users\fic\source\repos\ProjetoConsole\Exemplos\bin\Debug\net9.0\Exemplos.runtimeconfig.json
+C:\Users\fic\source\repos\ProjetoConsole\Exemplos\bin\Debug\net9.0\Exemplos.dll
+C:\Users\fic\source\repos\ProjetoConsole\Exemplos\bin\Debug\net9.0\Exemplos.pdb
+C:\Users\fic\source\repos\ProjetoConsole\Exemplos\obj\Debug\net9.0\Exemplos.dll
+C:\Users\fic\source\repos\ProjetoConsole\Exemplos\obj\Debug\net9.0\refint\Exemplos.dll
+C:\Users\fic\source\repos\ProjetoConsole\Exemplos\obj\Debug\net9.0\Exemplos.pdb
+C:\Users\fic\source\repos\ProjetoConsole\Exemplos\obj\Debug\net9.0\Exemplos.genruntimeconfig.cache
+C:\Users\fic\source\repos\ProjetoConsole\Exemplos\obj\Debug\net9.0\ref\Exemplos.dll
